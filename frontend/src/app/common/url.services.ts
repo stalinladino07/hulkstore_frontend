@@ -1,5 +1,5 @@
 export const URL = {
-    CONTEXT: 'http://localhost:8080/api',
+    CONTEXT: 'http://10.0.60.158:8088/api',
     CONTEXT_PRODUCT: '/product',
     CONTEXT_STOCK: '/stock',
     CONTEXT_INVENTORY: '/inventory',

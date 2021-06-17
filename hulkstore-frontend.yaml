@@ -23,7 +23,7 @@ spec:
       - name: azure-vote-front
         image: myakscluster07.azurecr.io/angular-app:v1
         ports:
-        - containerPort: 8081
+        - containerPort: 9001
         resources:
           requests:
             cpu: 250m
